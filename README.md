@@ -2,7 +2,7 @@
 ###
 
 ## Who am I?
-- 🎓 Bacholer Degree👩‍🎓História - FFLCH-USP
+- 🎓 Bachelor Degree👩‍🎓História - FFLCH-USP
 - 👀 I’m interested in learning and sharing my upcoming projects
 - 🌱 I’m currently learning SQL, Python and PowerBI
 - 📫 How to reach me:
